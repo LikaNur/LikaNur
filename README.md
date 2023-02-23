@@ -24,14 +24,20 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan
-:telescope: I’m a Software Developer in progress
+:telescope: I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan
 
 :seedling: Exploring JavaScript and its frameworks
 
-:zap: As a front-end developer, I'm always willing to take risks and dive deep into new challenges, both in the code and in life. In fact, I've jumped out of a plane while skydiving in Spain and dived 20 meters deep into the water - which just goes to show that I'm not afraid to step outside of my comfort zone, even if it means facing my fears head-on. But that's not the only leap of faith I've taken in my life - I used to work in business administration and project management, but I decided to take the plunge and pursue my passion for front-end development. Now, I'm fluent in both English and Spanish, which allows me to connect with people from all walks of life and collaborate on new projects. When it comes to problem-solving, I'm always ready to roll up my sleeves and dive into the code, finding creative solutions and breaking down barriers like a fearless explorer in a new frontier. But at the end of the day, I'm not just a developer - I'm a lifelong learner, constantly striving to stay up-to-date on the latest trends and techniques in my field, like a curious astronaut floating through the cosmos. 
+:zap: Facts about me:
 
-And hey, if I can dive 20 meters deep into the ocean, learning a new coding language is a piece of cake, right?
+        - Career changer, who found her calling in Programming
+        - A go-getter and a risk taker 
+        - Fluent in English, Russian, Farsi and German
+        - Jumped from 4000m height with a parachute 
+        - Dived 20m deep into the ocean
+        - Amateur tennis player and swimmer 
+
+
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/nurmatova-malika-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nurmatova-malika/)
 
