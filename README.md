@@ -24,7 +24,7 @@
 ---
 
 ### :woman_technologist: About Me :
-:telescope: I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan
+:telescope: I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan
 
 :seedling: Exploring JavaScript and its frameworks
 
