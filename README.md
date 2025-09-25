@@ -10,6 +10,9 @@
     <a href="https://www.instagram.com/likanrmtv/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+       <a href="https://www.codewars.com/users/LikaNur">
+      <img src="https://img.shields.io/badge/CodeWars-orange?style=for-the-badge&logo=CodeWars&logoColor=orange" alt="CodeWars Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-LikaNur&style=flat-square&color=lightgrey" alt=""/>
   <h1>
