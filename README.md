@@ -1,5 +1,5 @@
 ### :woman_technologist: About Me :
-:telescope: I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan based in London, UK.
+:telescope: I am a Front End Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan based in London, UK.
 
 :seedling: A fan of JavaScript and its frameworks
 
